@@ -1,4 +1,4 @@
-# git clone
+# git clone https://github.com/Majdawad88/SimpleApp.git
 class SimpleApp:
     def __init__(self, window):
         self.window = window  # Save the window in our pocket to use later
